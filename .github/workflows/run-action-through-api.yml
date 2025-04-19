@@ -3,7 +3,7 @@ name: Trigger the test action through the github api
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   api-trigger-workflow:
