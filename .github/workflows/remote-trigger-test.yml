@@ -1,4 +1,4 @@
-name: A test workflow trigger through the github api
+name: A test workflow triggered through the github api
 
 on:
   workflow_dispatch:
